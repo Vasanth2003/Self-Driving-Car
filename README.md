@@ -1,2 +1,17 @@
-# Self-Driving-Car
-This is a Self Driving Car project created using python. It was made using some of python libraries like pygame,math,random,sys,os and neat. It has some unique features like Automatic path detection,Speed and Distance calculation and Number of alive cars counter. 
+# 🚗 Autonomous Car Simulation using Pygame
+
+A Python-based autonomous car simulation built with Pygame where a virtual vehicle follows a track using pixel-based path detection. The car senses surrounding pixels from the track image and automatically adjusts its direction, simulating a simple perception-driven navigation system.
+
+## Features
+- Pixel-based track detection
+- Automatic direction and rotation control
+- Real-time simulation using Pygame
+
+## Tech Stack
+- Python
+- Pygame
+
+## Run the Project
+```bash
+pip install pygame
+python main.py
